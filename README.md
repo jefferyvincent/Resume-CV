@@ -12,7 +12,7 @@ Self-starter with the ability to work on multiple projects with various stakehol
 
 
 ## WORK EXPERIENCE
-> [!IMPORTANT]
+> [!NOTE]
 >### Front-End Lead Software Engineer
 
 **Q-FREE**
@@ -28,7 +28,7 @@ Acquired Skills:
 - Apex Charts
 - Material UI
 
-> [!IMPORTANT]
+> [!NOTE]
 >### Front-End Developer
 
 **STATE OF VIRGINIA**
@@ -45,7 +45,7 @@ Acquired Skills:
 - CSS
 - ReactJS
 - Accessibility
-> [!IMPORTANT]
+> [!NOTE]
 >### Senior Developer
 
 **THE CHRISTIAN BROADCASTING NETWORK**
@@ -73,7 +73,7 @@ Acquired Skills:
 - GraphQL
 - Apollo Client
 - TypeScript
-> [!IMPORTANT]
+> [!NOTE]
 >### Web Manager
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
@@ -87,7 +87,7 @@ Acquired Skills:
 - Interviewing
 - Team building
 - Team growth.
-> [!IMPORTANT]
+> [!NOTE]
 >### Web Lead
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
@@ -99,7 +99,7 @@ Acquired Skills:
 - Mentoring
 - Project Management
 - Team building.
-> [!IMPORTANT]
+> [!NOTE]
 >### Web Developer II
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
