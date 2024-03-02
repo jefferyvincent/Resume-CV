@@ -7,9 +7,8 @@ Front-end experience with e-commerce and corporate-level solutions, working with
 Self-starter with the ability to work on multiple projects with various stakeholders to solve problems, receive criticism, and develop elegant solutions.
 
 ## CONTACT
-jeffery.vincent@gmail.com
-
-908.295.2749
+- jeffery.vincent@gmail.com
+- 908.295.2749
 
 
 ## WORK EXPERIENCE
