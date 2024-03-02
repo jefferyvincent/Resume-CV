@@ -13,7 +13,7 @@ jeffery.vincent@gmail.com
 
 
 ## WORK EXPERIENCE
-
+> [!IMPORTANT]
 >### Front-End Lead Software Engineer
 
 **Q-FREE**
@@ -29,6 +29,7 @@ Acquired Skills:
 - Apex Charts
 - Material UI
 
+> [!IMPORTANT]
 >### Front-End Developer
 
 **STATE OF VIRGINIA**
@@ -45,7 +46,7 @@ Acquired Skills:
 - CSS
 - ReactJS
 - Accessibility
-
+> [!IMPORTANT]
 >### Senior Developer
 
 **THE CHRISTIAN BROADCASTING NETWORK**
@@ -73,7 +74,7 @@ Acquired Skills:
 - GraphQL
 - Apollo Client
 - TypeScript
-
+> [!IMPORTANT]
 >### Web Manager
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
@@ -87,7 +88,7 @@ Acquired Skills:
 - Interviewing
 - Team building
 - Team growth.
-
+> [!IMPORTANT]
 >### Web Lead
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
@@ -99,7 +100,7 @@ Acquired Skills:
 - Mentoring
 - Project Management
 - Team building.
-
+> [!IMPORTANT]
 >### Web Developer II
 
 **TRUE ACTION, AN EBAY INC. COMPANY**
