@@ -31,7 +31,7 @@ Acquired Skills:
 
 >### Front-End Developer
 
-**VIRGINIA DEPARTMENT OF CORRECTIONS**
+**STATE OF VIRGINIA**
 
 Front-end/back-end development work for various websites and web applications. Specifically the Visitation Application for the DOC public website.
 
