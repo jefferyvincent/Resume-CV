@@ -111,7 +111,7 @@ Senior Full-Stack Software Engineer with 20+ years of experience in front-end an
 > [!NOTE]
 >### Co-founder/Cheif Technology Officer
 
-**Vestalize | GraphQL/NodeJS/Pytho**
+**Vestalize | GraphQL/NodeJS/Python**
 
 - Engineered trading strategy pattern recognition system analyzing Plaid brokerage data feeds for stock options day traders
 - Designed Bitbucket CI/CD pipelines and Netlify frontend infrastructure
