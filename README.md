@@ -12,13 +12,16 @@ Senior Full-Stack Software Engineer with 20+ years of experience in front-end an
 >### Full Stack Mobile Developer
 
 **Upward Sports | iOS/Android React Native**
-- Architected and developed RunClub, a comprehensive iOS and Android React Native fitness mobile application, overseeing both development and design implementation
-- Built reusable TypeScript components and established React Native architecture patterns used across the entire application
-- Developed in-app purchase (IAP) subscription services using Azure cloud infrastructure: .NET/C#, SQL stored procedures, Swagger API documentation, and Azure Functions
-- Configured and monetized paid subscription tiers across Stripe, Google Play Store, and Apple App Store Connect
-- Implemented social sign-in functionality for Google, Meta (Facebook), and Apple authentication protocols
-- Developed GPS-based runner coordinate tracking and real-time metrics visualization with custom mapping and graphing
-- Engineered state management using Zustand stores for application state tracking and configuration management
+- Architected and developed RunClub, a comprehensive iOS and Android React Native fitness mobile application serving 700+ active users
+- Redesigned and optimized onboarding flow, improving user activation and reducing friction in the initial app experience
+- Implemented social sign-in functionality for Google, Meta (Facebook), and Apple authentication protocols, streamlining user registration
+- Migrated subscription billing from Stripe to in-app purchase (IAP) model, increasing revenue retention and reducing transaction friction
+- Built robust in-app purchase (IAP) subscription services leveraging Azure cloud infrastructure: .NET/C#, SQL stored procedures, Swagger API documentation, and Azure Functions
+- Configured and monetized tiered subscription offerings across Google Play Store and Apple App Store Connect with proper receipt validation
+- Developed GPS-based runner coordinate tracking and real-time metrics visualization with custom mapping and graphing capabilities
+- Built reusable TypeScript components and established React Native architecture patterns ensuring code consistency and maintainability
+- Engineered state management using Zustand stores for efficient application state tracking and configuration management
+- Maintained application health and compatibility: proactively ran Expo Doctor diagnostics and upgraded to latest versions of Expo and React Native
 - Managed iOS and Android app distribution: built and deployed IPAs via iOS Transporter and uploaded AAB builds to Google Play
 - Configured TestFlight and Google Play Console for internal and external testing team deployment
 
