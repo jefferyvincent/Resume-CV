@@ -134,12 +134,12 @@ Senior Full-Stack Software Engineer with 20+ years of experience in front-end an
 
 ## TECHNICAL SKILLS
 
-Frontend: React, React Native, TypeScript, Next.js, Redux, Material UI, Apex Charts, HTML5, CSS3, Storybook
-Backend: Node.js, .NET/C#, PHP, Python, GraphQL, Apollo, REST APIs
-Databases: SQL, Stored Procedures, PostgreSQL
-Cloud & DevOps: Azure Cloud, Docker, Webpack, Bitbucket CI/CD, Netlify
-Tools & Platforms: Git, GitHub, Stripe, Plaid, Firebase, Swagger, GraphQL Network Inspector
-AI/ML: LLM agents, RAG (Retrieval-Augmented Generation), Python
+- Frontend: React, React Native, TypeScript, Next.js, Redux, Material UI, Apex Charts, HTML5, CSS3, Storybook
+- Backend: Node.js, .NET/C#, PHP, Python, GraphQL, Apollo, REST APIs
+- Databases: SQL, Stored Procedures, PostgreSQL
+- Cloud & DevOps: Azure Cloud, Docker, Webpack, Bitbucket CI/CD, Netlify
+- Tools & Platforms: Git, GitHub, Stripe, Plaid, Firebase, Swagger, GraphQL Network Inspector
+- AI/ML: LLM agents, RAG (Retrieval-Augmented Generation), Python
 
  
 ## EDUCATION
@@ -147,6 +147,3 @@ AI/ML: LLM agents, RAG (Retrieval-Augmented Generation), Python
 - Computer Science — Somerset County Technical Institute
 - Industrial Design — Art Institute of Philadelphia
 - Additional Coursework — Criminal Justice, Commercial Art & Design (Somerset County Technical Institute)
-
-Criminal Justice
-- RARITAN VALLEY COMMUNITY COLLEGE
