@@ -1,4 +1,4 @@
-# Jeffery "JV" Vince
+# Jeffery "JV" Vincent
 
 ## PROFILE
 Senior Full-Stack Software Engineer with 20+ years of experience in front-end and back-end development. Proven expertise in designing and delivering scalable applications for high-traffic e-commerce and enterprise environments. Self-motivated problem-solver with a track record of mentoring development teams, delivering solutions under tight deadlines, and collaborating effectively across remote teams and stakeholders.
